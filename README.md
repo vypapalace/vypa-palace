@@ -11,7 +11,7 @@
     <!-- Header & Navigation -->
     <header>
         <div class="logo">
-            <h1>AFROSTAR</h1>
+            <h1>palace music</h1>
         </div>
         <nav>
             <ul>
@@ -76,3 +76,6 @@
     <script src="js/main.js"></script>
 </body>
 </html>
+
+ [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vypa palace) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vypa palace) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/vypa palace) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@vypa palace) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/vypa palace) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)] [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@vypashani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vypashani@gmail.com) 
+
